@@ -8,8 +8,10 @@ This repository contains the PyTorch implementation for the models and experimen
 *********************************
 ## Experiments:
 
-Please fork : ![SynthIE respo](https://github.com/epfl-dlab/SynthIE)
-Download the model : ![Mixtral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)\ ![T5](https://huggingface.co/google/flan-t5-base)
+Please fork : [SynthIE respo](https://github.com/epfl-dlab/SynthIE)
+
+Download the model : [Mixtral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)\ [T5](https://huggingface.co/google/flan-t5-base)
+
 Process the REBEL datast and run test.py
 
 ## test  Framework:
