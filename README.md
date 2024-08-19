@@ -2,4 +2,4 @@
 A Novel Framework Embedded with LLM for Adaptive Construction of Knowledge Graph
 
 ******************************
-![Image](https://raw.githubusercontent.com/Gladysid/Images-blog/master/IE-box-pic.png)
+![Image](https://github.com/KustTeamWQW/ACKG-LLM/blob/cec00e15dcbc037d981c9e0d936772e0739bc442/Framework.pdf)
