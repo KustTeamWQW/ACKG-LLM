@@ -14,7 +14,7 @@ Download the model : [Mixtral](https://huggingface.co/mistralai/Mistral-7B-Instr
 
 Process the REBEL datast and run test.py
 
-## test  Framework:
+## Test  Framework:
 
-All adopt the large language model used by the 4bit quantization run. (It is recommended to use at least two graphics cards with 16 gigabytes of memory.)
+All adopt the large language model used by the 4bit quantization run. (It is recommended to use at least two graphics cards with 16 G of memory.)
 
